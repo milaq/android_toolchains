@@ -15,7 +15,7 @@ Sourcery G++ Lite 2009q3-67 for ARM GNU/Linux
 Release Date: 20 October 2009
 GCC version: 4.4.1
 
-[3] arm-eabi-4.4.3
+[3] generic/arm-eabi-4.4.3
 
 Generic arm-eabi 4.4.3 tc
 Originally from the Android repos
